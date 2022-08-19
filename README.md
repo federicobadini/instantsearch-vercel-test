@@ -1,0 +1,1 @@
+This example shows how to do server side rendering with next.js and React InstantSearch Hooks. There's a live example here: https://codesandbox.io/s/github/algolia/react-instantsearch/tree/master/examples/hooks-next.
